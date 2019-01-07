@@ -30,7 +30,7 @@ end
 
 class Stack
   attr_accessor :stack_array
-  def initialize()
+  def initialize
     @stack_array = []
   end
 
